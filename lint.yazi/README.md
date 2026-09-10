@@ -2,9 +2,9 @@
 
 A highly customizable Yazi plugin to lint the hovered file and instantly show the result (OK / Errors) via `ya.notify`. It comes with sensible zero-config defaults for popular linters.
 
-![lint_ok](lint_yazi-ok.png)
+![lint_ok](lint.yazi-ok.png)
 
-![lint_error](lint_yazi-error.png)
+![lint_error](lint.yazi-error.png)
 
 ## Installation
 
